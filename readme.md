@@ -2,7 +2,7 @@
 
 ## Front-End
 
-### List
+### Lists
 
 - [miripiruni / frontdesk](https://github.com/miripiruni/frontdesk)
   Community driven list of useful things for Front End Developers
@@ -13,9 +13,9 @@
 
 - [twhite96/js-dev-reads](https://github.com/twhite96/js-dev-reads) A list of books 📚and articles 📝 for the discerning web developer to read.
 
-[stacylondon/front-end-learning](https://github.com/stacylondon/front-end-learning) A list of resources for both learning & keeping up with web development.
+- [stacylondon/front-end-learning](https://github.com/stacylondon/front-end-learning) A list of resources for both learning & keeping up with web development.
 
-[bolshchikov/js-must-watch](https://github.com/bolshchikov/js-must-watch) Must-watch videos about javascript
+- [bolshchikov/js-must-watch](https://github.com/bolshchikov/js-must-watch) Must-watch videos about javascript
 
 ### React
 
@@ -64,3 +64,22 @@
 - [azat-io / you-dont-know-js-ru](https://github.com/azat-io/you-dont-know-js-ru) 📚 Russian translation of "You Don't Know JS" book series
 
 - [leonardomso / 33-js-concepts](https://github.com/leonardomso/33-js-concepts) 📜 33 concepts every JavaScript developer should know.
+
+### CCS/ HTML
+
+#### Lists
+
+[micromata / awesome-css-learning](https://github.com/micromata/awesome-css-learning) A tiny list limited to the best CSS Learning Resources
+
+[AllThingsSmitty / must-watch-css](https://github.com/AllThingsSmitty/must-watch-css) A useful list of must-watch talks about CSS
+
+#### Others
+
+- [philipwalton / solved-by-flexbox](https://github.com/philipwalton/solved-by-flexbox) A showcase of problems once hard or impossible to solve with CSS alone, now made trivially easy with Flexbox.
+
+- [AllThingsSmitty / css-protips](https://github.com/AllThingsSmitty/css-protips) A collection of tips to help take your CSS skills pro
+
+- [you-dont-need / You-Dont-Need-JavaScript](https://github.com/you-dont-need/You-Dont-Need-JavaScript) CSS is powerful, you can do a lot of things without JS.
+- [yndx-shri-reviewer / shri-2020-task-1](https://github.com/yndx-shri-reviewer/shri-2020-task-1) Задание 1. Реализуйте дизайн-систему — ШРИ, Москва, 2020
+
+- [30-seconds / 30-seconds-of-css](https://github.com/30-seconds/30-seconds-of-css) Short CSS code snippets for all your development needs
