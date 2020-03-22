@@ -10,6 +10,7 @@
   - [CSS/HTML](#fe-css)
     - [Lists](#fe-css-lists)
     - [Others](#fe-css-others)
+  - [dev-tools](#fe-devtools)
 - [Interview](#interview)
 - [Others](#others)
 - [Git](#git)
@@ -107,6 +108,12 @@
 - [yndx-shri-reviewer / shri-2020-task-1](https://github.com/yndx-shri-reviewer/shri-2020-task-1) Задание 1. Реализуйте дизайн-систему — ШРИ, Москва, 2020
 
 - [30-seconds / 30-seconds-of-css](https://github.com/30-seconds/30-seconds-of-css) Short CSS code snippets for all your development needs
+
+### <a id="fe-devtools"></a> DevTools
+
+- [Chrome DevTools documentation](https://developers.google.com/web/tools/chrome-devtools)
+- [Firefox Developer Tools](https://developer.mozilla.org/en-US/docs/Tools)
+- [Postman](https://www.postman.com/) - useful tool for RESTful APIs
 
 ### <a id="fe-interview"></a> Interview /Roadmap/ questions
 
