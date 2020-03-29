@@ -43,6 +43,7 @@
 - [30-seconds / 30-seconds-of-react](https://github.com/30-seconds/30-seconds-of-react) Short React code snippets for all your development needs
 
 - [krasimir / react-in-patterns](https://github.com/krasimir/react-in-patterns) A free book that talks about design patterns/techniques used while developing with React.
+- [markerikson/react-redux-links](https://github.com/markerikson/react-redux-links) Curated tutorial and resource links I've collected on React, Redux, ES6, and more
 
 ### <a id="fe-js"></a> JavaScript
 
@@ -89,6 +90,8 @@
 
 - [microsoft / frontend-bootcamp](https://github.com/microsoft/frontend-bootcamp)
   Frontend Workshop from HTML/CSS/JS to TypeScript/React/Redux
+
+- [feltcoop/why-svelte](https://github.com/feltcoop/why-svelte) Why Svelte is our choice for a large web project in 2020
 
 ### <a id="fe-css"></a> CSS/HTML
 
@@ -260,3 +263,8 @@
 - [mrdavidlaing / javascript-koans](https://github.com/mrdavidlaing/javascript-koans) Koans to learn Javascript
 
 - [rmurphey / js-assessment](https://github.com/rmurphey/js-assessment) A test-driven approach to assessing JS skills
+
+## <a id="tools"></a> Tools
+
+- [rupa / z](https://github.com/rupa/z) z - jump around
+- [Vonng/Capslock](https://github.com/Vonng/Capslock) Make CapsLock Great Again! For MAC
