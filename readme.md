@@ -239,6 +239,8 @@
 
 - [marmelab / awesome-rest](https://github.com/marmelab/awesome-rest) A collaborative list of great resources about RESTful API architecture, development, test, and performance
 
+- [12factor.net/](https://12factor.net/) The twelve-factor methodology
+
 ## <a id="fp"></a> FP
 
 - [hemanth / functional-programming-jargon](https://github.com/hemanth/functional-programming-jargon) Jargon from the functional programming world in simple terms!
