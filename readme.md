@@ -23,9 +23,6 @@
 
 ### <a id="fe-lists"></a> Lists
 
-- [miripiruni / frontdesk](https://github.com/miripiruni/frontdesk)
-  Community driven list of useful things for Front End Developers
-
 - [micromata/awesome-javascript-learning](https://github.com/micromata/awesome-javascript-learning) A tiny list limited to the best JavaScript Learning Resources
 
 - [RitikPatni / Front-End-Web-Development-Resources](https://github.com/RitikPatni/Front-End-Web-Development-Resources)This repository contains content which will be helpful in your journey as a front-end Web Developer
