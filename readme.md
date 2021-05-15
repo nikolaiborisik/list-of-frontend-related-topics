@@ -23,9 +23,9 @@
 
 ### <a id="fe-lists"></a> Lists
 
+- 🚀 [RitikPatni / Front-End-Web-Development-Resources](https://github.com/RitikPatni/Front-End-Web-Development-Resources) This repository contains content which will be helpful in your journey as a front-end Web Developer. Questions and resources by level.
 - [micromata/awesome-javascript-learning](https://github.com/micromata/awesome-javascript-learning) A tiny list limited to the best JavaScript Learning Resources
 
-- [RitikPatni / Front-End-Web-Development-Resources](https://github.com/RitikPatni/Front-End-Web-Development-Resources)This repository contains content which will be helpful in your journey as a front-end Web Developer
 
 - [twhite96/js-dev-reads](https://github.com/twhite96/js-dev-reads) A list of books 📚and articles 📝 for the discerning web developer to read.
 
@@ -160,7 +160,7 @@
 
 ## <a id="others"></a> Others
 
-- [mtdvio / every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know)
+- 🚀 [mtdvio / every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know)
   A collection of (mostly) technical things every software developer should know
 
 - [alex / what-happens-when](https://github.com/alex/what-happens-when)An attempt to answer the age old interview question "What happens when you type google.com into your browser and press enter?"
